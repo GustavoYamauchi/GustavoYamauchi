@@ -9,14 +9,17 @@ Um estudante de Ciência da Computação que trabalha com Swift. Divide seu temp
 
 
 ## Editores preferidos :memo:
-<a href="" target=""><img src="" /></a>
-XCode
-VSCode
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
 ## Stalker's :detective:
+<a href="https://www.bandlab.com/gustavoyamauchi" target="_blank"><img src="https://img.shields.io/badge/BandLab-f12c18?style=for-the-badge&logo=bandlab&logoColor=white" /></a>
 BandLab: https://www.bandlab.com/gustavoyamauchi
 Instagram: https://www.instagram.com/gu_yamauchi/
 Linkdin: https://www.linkedin.com/in/gustavo-yamauchi/
 GitHub: https://github.com/GustavoYamauchi
+f12c18
+
+
 ## Pra quem gosta de gráficos :bar_chart:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoYamauchi&layout=default&theme=midnight-purple&include_all_commits=true&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoYamauchi&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)

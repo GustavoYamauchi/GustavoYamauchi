@@ -1,12 +1,15 @@
 # Salve salve família 🙃
 ## EU :underage:
-:space_invader: :musical_note:
+Um estudante de Ciência da Computação que trabalha com Swift. Divide seu tempo livre entre jogar e brincar de fazer músicas. :space_invader: :musical_note:
+
+
 ## Linguagens :moneybag:
-Swift 
-C
-Python
+
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+
 
 ## Editores preferidos :memo:
+<a href="" target=""><img src="" /></a>
 XCode
 VSCode
 ## Stalker's :detective:
